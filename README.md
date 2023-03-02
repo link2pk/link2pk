@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Praveen Kumar
-- 👀 I’m interested in Figma/Sketch/Zeplin to html css development
-- 💞️ I’m looking to collaborate on projects in which an html css developer is required
+<!--  - 👀 I’m interested in Figma/Sketch/Zeplin to html css development -->
+- 💞️ I’m looking to collaborate on projects in which a React js, html or css developer is required
 
 
 <!---
